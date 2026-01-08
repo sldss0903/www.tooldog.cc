@@ -1,4 +1,4 @@
-工具蜂([tooldog.cc](http://www.tooldog.cc/))提供基于web页的在线工具软件，如：生活服务工具、金融理财工具、教育教学工具、
+工具狗([tooldog.cc](http://www.tooldog.cc/))提供基于web页的在线工具软件，如：生活服务工具、金融理财工具、教育教学工具、
 数学计算工具、站长工具、及各类在线工具等等。
 
 [日期计算器-在线天数计算工具](http://riqi.tooldog.cc/)
